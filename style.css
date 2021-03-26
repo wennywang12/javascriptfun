@@ -1,0 +1,11 @@
+div {
+    background-color: coral;
+    border: 1px solid;
+    padding: 50px;
+    text-align: center;
+    font-size: 16rem;
+}
+
+body {
+  background-color: wheat;
+}
